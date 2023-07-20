@@ -6,4 +6,5 @@ installation third-party Library
 3) npm i react-multi-carousel
 
 
-#website [https://github.com/Cubarhande/GYM-FITNESS/blob/main/Urbanfit-Wellness-Pvt-Ltd.png] website design view
+#website design view
+"[https://github.com/Cubarhande/GYM-FITNESS/blob/main/Urbanfit-Wellness-Pvt-Ltd.png]"
